@@ -1,3 +1,24 @@
 * {
   box-sizing: border-box;
+
 }
+
+.head {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 120px;
+}
+
+.item {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+
+}
+
+.item-block {
+  background: #FFFFFF;
+  border: 1px solid #E5EAF4;
+  border-radius: 8px;
+}
+
