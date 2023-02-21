@@ -1,0 +1,16 @@
+@use "variables";
+
+%greenbuilding {
+  position: absolute;
+  background: url(../images/symbol-defs.svg#green-building);
+}
+
+%greenphone {
+  position: absolute;
+  background: url(../images/symbol-defs.svg#green-phone);
+}
+
+%greenmegaphone {
+  position: absolute;
+  background: url(../images/symbol-defs.svg#green-megaphone);
+}
